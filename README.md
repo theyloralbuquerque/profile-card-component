@@ -2,7 +2,7 @@
 
 Projeto desenvolvido como parte de um desafio do [Frontend Mentor]([https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)), com o objetivo de praticar HTML e CSS no desenvolvimento front-end.
 
-<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/36c57fee-f861-4154-81b9-d2707117a75a" />
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/add029d3-0ba2-449e-9857-e82f42a6cfb9" />
 
 ## <br>Objetivo do projeto</br>
 Criar um cartão de perfil com informações de nome, idade, cidade e estado, seguidores, likes e quantidade de fotos, trabalhando os seguintes conceitos:
