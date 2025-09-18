@@ -1,0 +1,83 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('../img/spectrum-gradient.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1, h2, p {
+    margin: 0;
+}
+
+.card {
+    border-radius: 20px;
+    height: 500px;
+    width: 500px;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.superior {
+    border-radius: 20px 20px 0px 0px;
+    height: 190px;
+    background-image: url('../img/abstract-envelope.svg');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.detalhe {
+    position: absolute;
+    height: 2px;
+    width: 500px;
+    background-color: rgb(243, 240, 240);
+    bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 22px;
+    padding: 100px 0px 0px 0px;
+    color: #1d2b1d;
+}
+
+.idade, p {
+    color: rgb(172, 163, 163);
+}
+
+.cidade {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    gap: 0px;
+    justify-items: center;
+    margin: 70px 35px 0px 35px;
+}
+
+.item h2 {
+    color: #1d2b1d;
+    font-size: 22px;
+}
+
+.foto-perfil {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    border: 3px solid #191a19;
+    position: absolute;
+    bottom: -65px;
+    left: 50%;
+    transform: translateX(-50%);
+}
