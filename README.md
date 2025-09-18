@@ -29,4 +29,4 @@ cd profile-card-component
 # Abrir o arquivo HTML no navegador
 ```
 
-## <br>Link do projeto online:[ 🔗 Acessar projeto online]()</br>
+## <br>Link do projeto online:[ 🔗 Acessar projeto online](https://profile-card-component-wine-eight.vercel.app/)</br>
