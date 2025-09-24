@@ -1,6 +1,6 @@
 # Profile Card Component
 
-Projeto desenvolvido como parte de um desafio do [Frontend Mentor]([https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)), com o objetivo de praticar HTML e CSS no desenvolvimento front-end.
+Projeto desenvolvido como parte de um desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ), com o objetivo de praticar HTML e CSS no desenvolvimento front-end.
 
 <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/add029d3-0ba2-449e-9857-e82f42a6cfb9" />
 
